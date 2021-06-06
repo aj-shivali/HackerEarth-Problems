@@ -1,4 +1,4 @@
 # HackerEarth-Problems
-The repository contains solution of hackerearth problems   
+The repository contains solution of hackerearth problems    
  
  
